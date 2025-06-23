@@ -1,32 +1,31 @@
-# 👋 Olá! Eu sou o William
+# 👋 Olá, eu sou o William
 
-🎓 **Estudante de TADS** com foco em desenvolvimento de software e boas práticas de código.  
-💻 Apaixonado por criar sistemas eficientes e práticos.  
-🧠 Sempre aprendendo e explorando novas tecnologias.
-
----
-
-## 🛠️ Habilidades e Interesses
-
-- 💻 Linguagens e Ferramentas: C#, .NET, Java, SQL, Git  
-- 🔧 Backend e Arquitetura Limpa  
-- 🌐 APIs REST e Modelagem de Banco de Dados
+🎓 Estudante de **TADS (Tecnologia em Análise e Desenvolvimento de Sistemas)**  
+💻 Focado em **desenvolvimento de software** com boas práticas e código limpo  
+🧠 Explorando tecnologias modernas e arquitetura de sistemas  
+🎯 Interesse em **Java** e **C# com .NET**
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Tecnologias que estudo e utilizo
 
-![Estatísticas do GitHub de WillHenri](https://github-readme-stats.vercel.app/api?username=willHenri&show_icons=true&theme=tokyonight)
+- ☕ Java (Spring Boot, JPA)
+- 🧩 C# (.NET, Entity Framework Core)
+- 🐘 SQLite, PostgreSQL
+- 📁 Git e GitHub
 
 ---
 
-## 🌍 Conecte-se Comigo
+## 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamHenri&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/william-henrique-91a8a52a1)
 - [Instagram](https://www.instagram.com/williamh_batista)
 
----
 
-⭐ Fique à vontade para explorar meus repositórios abaixo!
 
----
